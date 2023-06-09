@@ -1,0 +1,518 @@
+@import url( font-awesome.css?ver=4.4 );
+@import url( font-awesome-ie7.css );
+#top-nav .grid-4 {
+	margin: 0px; float: right; display: block;
+}
+#top-nav .grid-4 {
+	width: 300px;
+}
+.widget {
+	margin-bottom: 0px;
+}
+h3.widget-title {
+	color: rgb(0, 153, 204); line-height: 20px; padding-bottom: 5px; font-family: "Microsoft YaHei", "Myriad Pro","Lato", "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 13px; margin-top: 0px; border-bottom-color: rgb(232, 232, 232); border-bottom-width: 1px; border-bottom-style: solid;
+}
+#top h3.widget-title {
+	border-bottom-color: rgb(68, 68, 68);
+}
+h3.widget-title a {
+	text-decoration: none;
+}
+.widget .post-excerpt {
+	margin-bottom: 20px;
+}
+.widget .post-excerpt p {
+	margin-bottom: 0px;
+}
+.widget .sd-social {
+	display: none !important;
+}
+.widget p {
+	font-size: 13px;
+}
+#top-nav {
+	background: rgb(248, 248, 248); top: 0px; width: 100%; height: 30px; margin-top: 0px; border-bottom-color: rgb(238, 238, 238); border-bottom-width: 1px; border-bottom-style: solid; display: block; position: fixed; z-index: 300;
+}
+#top-nav ul {
+	list-style: none; margin: 0px; padding: 0px; line-height: 30px; font-family: "Microsoft YaHei", "Myriad Pro","Lato", "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 12px; float: right; position: relative;
+}
+#top-nav ul a {
+	text-decoration: none; display: inline-block; position: relative;
+}
+#top-nav ul li {
+	float: left; position: relative;
+}
+#top-nav ul li:hover {
+	visibility: inherit;
+}
+#top-nav .left {
+	text-align: left; float: left;
+}
+#top-nav .parent-menu span a::after {
+	line-height: 0.9; font-family: FontAwesome; font-size: 15px; font-style: normal; font-weight: normal; margin-left: 3px; display: inline-block; content: "\f107"; text-shadow: 0px 0px 1px #efefef;
+}
+#top-nav span.rounded-number {
+	background: rgb(87, 188, 225); padding: 2px 5px; border-radius: 10px; border: currentColor; border-image: none; color: white; line-height: 1; font-weight: normal;
+}
+.nav-area {
+	background: rgb(248, 248, 248); padding: 5px 0px 5px 20px; line-height: 30px; font-size: 13px; font-weight: normal; margin-bottom: 20px; display: block;
+}
+.home.nav-area {
+	padding: 5px 0px 5px 10px;
+}
+.home.nav-area a {
+	color: rgb(94, 94, 94);
+}
+.home.nav-area a:hover {
+	color: rgb(179, 0, 0);
+}
+#top-nav ul li {
+	border-right-color: rgb(238, 238, 238); border-right-width: 1px; border-right-style: solid;
+}
+#top-nav ul li:last-child {
+	border-right-color: currentColor; border-right-width: medium; border-right-style: none;
+}
+#top-nav ul a {
+	padding: 0px 10px; height: 30px; color: rgb(51, 51, 51); line-height: 30px;
+}
+#top-nav ul a:hover {
+	background: rgb(221, 221, 221);
+}
+#top-nav ul li.sfHover a {
+	background: rgb(221, 221, 221);
+}
+#top-nav ul li.current-cat a {
+	background: rgb(221, 221, 221);
+}
+#top-nav ul li.current-menu-item a {
+	background: rgb(221, 221, 221);
+}
+#top-nav ul ul {
+	background: rgb(221, 221, 221); padding: 10px 0px; font-size: 12px;
+}
+#top-nav ul ul li {
+	padding: 0px 10px; border: currentColor; border-image: none; height: 30px; line-height: 30px; float: none;
+}
+#top-nav ul ul li a {
+	padding: 0px 10px; height: 30px; line-height: 30px; border-top-color: rgb(204, 204, 204); border-top-width: 1px; border-top-style: solid; display: block;
+}
+#top-nav ul ul li:first-child a {
+	border-top-color: currentColor; border-top-width: medium; border-top-style: none;
+}
+.ie7 #top-nav ul ul li a {
+	border-top-color: currentColor; border-top-width: medium; border-top-style: none;
+}
+#top-nav ul ul ul {
+	padding: 0px;
+}
+#top-nav ul ul li.sfHover {
+	outline: 0px;
+}
+#top-nav ul ul li.sfHover {
+	outline: 0px;
+}
+#top-nav ul ul a:focus {
+	outline: 0px;
+}
+#top-nav ul ul a:hover {
+	outline: 0px;
+}
+#top-nav ul ul a:active {
+	outline: 0px;
+}
+#top-nav a {
+	width: auto; display: block;
+}
+#top-nav li {
+	width: auto; float: left; position: relative;
+}
+#top-nav li ul {
+	left: -999em; width: auto; position: absolute; min-width: 100%;
+}
+#top-nav li:hover ul {
+	left: auto; top: 30px;
+}
+#top-nav li.sfHover ul {
+	left: auto; top: 30px;
+}
+.ie7 #top-nav li.sfHover ul {
+	left: 0px;
+}
+#top-nav ul ul li:hover ul {
+	left: 0px; top: 0px; margin-left: 100%;
+}
+#top-nav ul ul li.sfHover ul {
+	left: 0px; top: 0px; margin-left: 100%;
+}
+#top-nav li li {
+	white-space: nowrap; min-width: 140px;
+}
+li.menu-item {
+	list-style: none;
+}
+#author-bio {
+	clear: both; margin-bottom: 20px; border-bottom-color: rgb(232, 232, 232); border-bottom-width: 1px; border-bottom-style: solid;
+}
+#author-bio .alignleft a {
+	background: rgb(255, 255, 255); border: 5px solid rgb(232, 232, 232); transition:0.2s ease-in-out; border-image: none; width: 60px; height: 60px; overflow: hidden; margin-top: 5px; display: block; -webkit-transition: all 0.2s ease-in-out; -moz-transition: all 0.2s ease-in-out; -o-transition: all 0.2s ease-in-out;
+}
+#author-bio .alignleft a img {
+	width: 100%; height: auto; min-height: 90%;
+}
+#author-bio .alignleft {
+	margin-bottom: 25px;
+}
+.alignleft {
+	text-align: left; margin-right: 20px; float: left;
+}
+.author-bio-info a {
+	color: rgb(95, 95, 95);
+}
+.author-bio-info .author-bio-info-block {
+	margin: 10px 0px; display: block;
+}
+.author-bio-info img {
+	display: inline;
+}
+#date p {
+	line-height: 30px; font-size: 12px;
+}
+#date span {
+	background: rgb(204, 204, 204); padding: 5px; color: rgb(255, 255, 255); text-transform: uppercase; font-size: 10px;
+}
+footer {
+	background: rgb(248, 248, 248); padding: 40px 0px 0px; border-top-color: rgb(238, 238, 238); border-top-width: 1px; border-top-style: solid;
+}
+footer .widget a {
+	color: rgb(88, 176, 213);
+}
+#bottom {
+	background: rgb(255, 255, 255); padding: 10px 0px; margin-top: 20px; border-top-color: rgb(238, 238, 238); border-top-width: 1px; border-top-style: solid;
+}
+#bottom p {
+	color: rgb(153, 153, 153); line-height: 20px; font-size: 11px; margin-bottom: 0px;
+}
+#bottom a {
+	color: rgb(153, 153, 153);
+}
+#bottom a:hover {
+	color: rgb(88, 176, 213);
+}
+.post-adds {
+	margin: 30px 0px;
+}
+.post-adds .btn-bluet-bigger {
+	margin-right: 5px;
+}
+.href-style {
+	cursor: pointer;
+}
+.show-when-hover {
+	display: none;
+}
+.btn {
+	padding: 6px 12px; border-radius: 5px; border: currentColor; border-image: none; font-size: 14px; cursor: pointer;
+}
+.btn:active {
+	background: inherit; outline: 0px; box-shadow: none; -webkit-box-shadow: none;
+}
+.active.btn {
+	background: inherit; outline: 0px; box-shadow: none; -webkit-box-shadow: none;
+}
+.btn:focus {
+	background: inherit;
+}
+.btn:focus:active {
+	background: inherit;
+}
+.active.btn:focus {
+	background: inherit;
+}
+.btn-non-transparent {
+	background: none; border: 1px solid rgb(204, 204, 204); border-image: none;
+}
+.btn-transparent {
+	background: none; border: 1px solid rgb(204, 204, 204); border-image: none; color: rgb(204, 204, 204);
+}
+.btn-transparent:hover {
+	background: none; border: 1px solid rgb(255, 255, 255); border-image: none; color: rgb(255, 255, 255); opacity: 0.9;
+}
+.btn-transparent:focus {
+	background: none; border: 1px solid rgb(255, 255, 255); border-image: none; color: rgb(255, 255, 255); opacity: 0.9;
+}
+.btn-transparent:focus:active {
+	background: none; border: 1px solid rgb(255, 255, 255); border-image: none; color: rgb(255, 255, 255); opacity: 0.9;
+}
+.btn-primary {
+	background: linear-gradient(rgb(93, 164, 255), rgb(65, 123, 255)); color: rgb(255, 255, 255); box-shadow: 0px 1px 2px rgba(0,0,0,0.3), inset 0px 1px 3px -1px rgba(255,255,255,0.88);
+}
+.btn-primary:hover {
+	background: linear-gradient(rgb(93, 164, 255), rgb(65, 123, 255)); color: rgb(255, 255, 255); box-shadow: 0px 1px 2px rgba(0,0,0,0.3), inset 0px 1px 3px -1px rgba(255,255,255,0.88);
+}
+.btn-primary:focus {
+	background: linear-gradient(rgb(93, 164, 255), rgb(65, 123, 255)); color: rgb(255, 255, 255); box-shadow: 0px 1px 2px rgba(0,0,0,0.3), inset 0px 1px 3px -1px rgba(255,255,255,0.88);
+}
+.btn-primary:focus:active {
+	background: linear-gradient(rgb(93, 164, 255), rgb(65, 123, 255)); color: rgb(255, 255, 255); box-shadow: 0px 1px 2px rgba(0,0,0,0.3), inset 0px 1px 3px -1px rgba(255,255,255,0.88);
+}
+.btn-default {
+	background: linear-gradient(rgb(247, 248, 250), rgb(239, 241, 244)); color: rgb(68, 68, 68);
+}
+.btn-default:hover {
+	background: linear-gradient(rgb(247, 248, 250), rgb(239, 241, 244)); color: rgb(68, 68, 68);
+}
+.btn-default:focus {
+	background: linear-gradient(rgb(247, 248, 250), rgb(239, 241, 244)); color: rgb(68, 68, 68);
+}
+.btn-default:focus:active {
+	background: linear-gradient(rgb(247, 248, 250), rgb(239, 241, 244)); color: rgb(68, 68, 68);
+}
+.btn-bluet {
+	background: none; padding: 5px 10px; border-radius: 5px; border: 1px solid rgb(205, 205, 205); border-image: none; color: rgb(102, 102, 102);
+}
+.btn-bluet:hover {
+	background: none; border: 1px solid rgb(88, 176, 213); border-image: none; color: rgb(88, 176, 213);
+}
+.btn-bluet:focus {
+	background: none; border: 1px solid rgb(88, 176, 213); border-image: none; color: rgb(88, 176, 213);
+}
+.btn-bluet:focus:active {
+	background: none; border: 1px solid rgb(88, 176, 213); border-image: none; color: rgb(88, 176, 213);
+}
+.btn-bluet-bigger {
+	background: none; padding: 8px 10px; border-radius: 5px; border: 1px solid rgb(205, 205, 205); border-image: none; color: rgb(255, 177, 92); font-size: 16px;
+}
+.btn-bluet-bigger:hover {
+	background: none; border: 1px solid rgb(88, 176, 213); border-image: none; color: rgb(88, 176, 213);
+}
+.btn-bluet-bigger:focus {
+	background: none; border: 1px solid rgb(88, 176, 213); border-image: none; color: rgb(88, 176, 213);
+}
+.btn-bluet-bigger:focus:active {
+	background: none; border: 1px solid rgb(88, 176, 213); border-image: none; color: rgb(88, 176, 213);
+}
+.btn-bluet-blue {
+	background: rgb(106, 174, 228); padding: 8px 10px; border-radius: 5px; color: rgb(255, 255, 255); font-size: 15px;
+}
+.btn-bluet-blue:hover {
+	background: rgb(107, 182, 236);
+}
+.btn-bluet-blue:focus {
+	background: rgb(107, 182, 236);
+}
+.btn-bluet-blue:focus:active {
+	background: rgb(107, 182, 236);
+}
+.action_taken {
+	color: rgb(88, 176, 213); text-decoration: none;
+}
+.btn-bluet-bigger.action_taken {
+	color: rgb(88, 176, 213);
+}
+.dot-box {
+	padding: 20px 10px; border: 1px dotted rgb(198, 198, 198); border-image: none; font-weight: normal;
+}
+.dot-box button {
+	margin-right: 10px;
+}
+.sub-title {
+	color: rgb(68, 68, 68); font-size: 16px; font-weight: normal; border-bottom-color: rgb(233, 233, 233); border-bottom-width: 1px; border-bottom-style: solid; position: relative;
+}
+.comment-respond textarea {
+	height: auto; font-size: 14px; margin-top: 10px; min-height: 70px;
+}
+.center-align {
+	text-align: center;
+}
+.left-align {
+	text-align: left;
+}
+.loading-flag {
+	display: none;
+}
+.submit-tips {
+	font-size: 13px; font-weight: normal;
+}
+.captcha-green-flag {
+	margin: 10px 5px 0px -20px; color: green; float: left; display: none;
+}
+.captcha-red-flag {
+	margin: 10px 5px 0px -20px; color: red; float: left; display: none;
+}
+.href-style {
+	cursor: pointer;
+}
+.margin-of-comment-filter {
+	margin-left: 10px;
+}
+.comments {
+	padding: 20px 0px 10px; overflow: hidden; clear: both; display: block;
+}
+.sidebar-comments {
+	clear: both; display: block;
+}
+.cmnt-list {
+	list-style: none; margin: 10px 0px; padding: 0px; width: 100%; clear: both; display: block;
+}
+.cmnt-list ul.children {
+	padding-left: 20px; margin-left: 0px;
+}
+.cmnt-list .cmnt-list {
+	padding: 0px;
+}
+.cmnt-list .cmnt {
+	background: rgb(255, 255, 255); margin: 0px 0px 10px; padding: 10px 10px 0px; border: 1px solid rgb(238, 238, 238); border-image: none; overflow: hidden; display: block;
+}
+.cmnt-list .cmnt .even {
+	background: rgb(248, 248, 248);
+}
+.cmnt-list .cmnt .odd {
+	background: rgb(255, 255, 255);
+}
+.cmnt-img {
+	margin: 0px 10px 5px 0px; float: left;
+}
+.odd .cmnt-img img {
+	padding: 2px; border: 1px solid rgb(238, 238, 238); border-image: none; max-width: none;
+}
+.even .cmnt-img img {
+	padding: 2px; border: 1px solid rgb(238, 238, 238); border-image: none; max-width: none;
+}
+.cmnt-header .level {
+	color: rgb(164, 164, 164); font-size: 13px; font-weight: normal; margin-top: -35px; float: right;
+}
+.cmnt-meta {
+	padding-top: 5px;
+}
+.cmnt-meta span {
+	line-height: 1; font-size: 13px; display: block;
+}
+.cmnt-meta .c-title {
+	color: rgb(164, 164, 164); font-size: 12px; margin-top: 5px;
+}
+.cmnt-meta .c-date {
+	color: rgb(164, 164, 164); font-size: 12px; margin-top: -30px; margin-left: 10px; float: right;
+}
+.cmnt-meta .essence-info {
+	margin-top: -10px; margin-left: 10px; float: right;
+}
+.cmnt-meta .comment_author_data {
+	color: rgb(76, 76, 76); padding-bottom: 0px; font-size: 12px; font-weight: normal; margin-bottom: 0px;
+}
+.cmnt-header .cmnt-meta a {
+	color: rgb(76, 76, 76);
+}
+.cmnt-meta .comment_author_data a {
+	font-size: 12px; font-weight: normal;
+}
+.cmnt-meta label {
+	line-height: 100%;
+}
+.cmnt-body {
+	padding: 0px; color: rgb(76, 76, 76); clear: both; font-size: 13px; -ms-word-break: break-all;
+}
+.cmnt-body a {
+	color: rgb(76, 76, 76); text-decoration: underline;
+}
+.cmnt-body a:hover {
+	color: rgb(76, 76, 76); text-decoration: underline;
+}
+.cmnt-box p {
+	margin-bottom: 10px;
+}
+.cmnt-footer .c-edit {
+	margin-top: -10px; float: left;
+}
+.cmnt-footer .c-edit span {
+	margin: 0px 5px 0px 0px; color: rgb(138, 138, 138); font-size: 13px; font-weight: normal; text-decoration: none; display: none;
+}
+.cmnt-footer .c-like {
+	margin-top: -10px; float: right;
+}
+.c-like a {
+	margin: 0px 5px 0px 0px; font-size: 13px; font-weight: normal; text-decoration: none; display: inline-block;
+}
+.c-like a img {
+	top: -1px; margin-right: 2px; position: relative; max-width: none;
+}
+.c-like .t-up {
+	color: rgb(70, 158, 48);
+}
+.c-like .t-down {
+	color: rgb(147, 19, 19);
+}
+.user-profile-icon {
+	border: 1px solid rgb(198, 198, 198); border-image: none;
+}
+.sub-title-no-bottom-line {
+	color: rgb(68, 68, 68); font-size: 16px; font-weight: bold; margin-bottom: 0px; position: relative;
+}
+.small-sub-title {
+	font-size: 13px; font-weight: normal;
+}
+input .small-button {
+	background: linear-gradient(rgb(93, 164, 255), rgb(65, 123, 255)); font: 12px/14px Arial, Tahoma, Verdana, sans-serif; padding: 4px 10px; border-radius: 3px; border: currentColor; border-image: none; text-align: center; color: rgb(255, 255, 255); text-decoration: none; cursor: pointer; font-size-adjust: none; font-stretch: normal; box-shadow: 0px 1px 2px rgba(0,0,0,0.3), inset 0px 1px 3px -1px rgba(255,255,255,0.88); -webkit-border-radius: 3px; -moz-border-radius: 3px;
+}
+.small-button {
+	background: linear-gradient(rgb(93, 164, 255), rgb(65, 123, 255)); font: 12px/14px Arial, Tahoma, Verdana, sans-serif; padding: 4px 10px; border-radius: 3px; border: currentColor; border-image: none; text-align: center; color: rgb(255, 255, 255); text-decoration: none; cursor: pointer; font-size-adjust: none; font-stretch: normal; box-shadow: 0px 1px 2px rgba(0,0,0,0.3), inset 0px 1px 3px -1px rgba(255,255,255,0.88); -webkit-border-radius: 3px; -moz-border-radius: 3px;
+}
+.greeniconcolor {
+	color: rgb(0, 177, 0);
+}
+.brightyellow {
+	color: rgb(255, 240, 0);
+}
+.blueiconcolor {
+	color: rgb(0, 153, 204);
+}
+.pinkiconcolor {
+	color: hotpink;
+}
+.rediconcolor {
+	color: red;
+}
+.goldiconcolor {
+	color: gold;
+}
+.reward_info {
+	font-size: 13px;
+}
+#preview-md-container {
+	padding: 5px 10px; border: 1px dotted rgb(232, 232, 232); border-image: none; display: none;
+}
+blockquote.rewards {
+	margin: 0px 0px 10px; padding: 10px 20px 15px; color: rgb(94, 94, 94); font-size: 15px; border-left-color: rgb(106, 174, 228); border-left-width: 5px; border-left-style: solid; background-color: rgb(238, 238, 238);
+}
+blockquote.rewards p {
+	font-size: 17px; margin-bottom: 15px;
+}
+blockquote.rewards p:last-child {
+	margin-bottom: 0px;
+}
+#rewardbox {
+	text-align: center; overflow: hidden; display: none;
+}
+#rewardbox img {
+	width: 230px; height: 290px; margin-bottom: 10px;
+}
+#rewardbox img:nth-child(n+2) {
+	margin-left: 10px;
+}
+#rewardbox img:first-child {
+	padding-right: 0px; margin-right: 0px;
+}
+.container .wp-editor-container {
+	padding: 0px 1px; border-radius: 4px; border: 1px solid rgb(218, 223, 234); border-image: none;
+}
+.p-paging {
+	text-align: center; padding-top: 20px; font-size: 14px; display: block;
+}
+html .hide-on-480 {
+	
+}
+@media all and (max-width:480px)
+{
+html .hide-on-480 {
+	display: none;
+}
+}

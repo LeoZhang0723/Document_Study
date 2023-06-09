@@ -1,0 +1,27 @@
+.v48fv_48x16_censor {
+	background-position: left; margin: 0px; padding: 0px; border: 1px dotted silver; border-image: none; display: inline; background-repeat: repeat-x;
+}
+.v48fv_48x16_spoiler {
+	background-position: left; margin: 0px; padding: 0px; border: 1px dotted silver; border-image: none; display: inline; background-repeat: repeat-x;
+}
+.v48fv_48x16_censor:hover {
+	background-image: none;
+}
+.v48fv_48x16_spoiler:hover {
+	background-image: none;
+}
+.v48fv_48x16_censor span:hover {
+	opacity: 1; -moz-opacity: 1; -khtml-opacity: 1;
+}
+.v48fv_48x16_spoiler span:hover {
+	opacity: 1; -moz-opacity: 1; -khtml-opacity: 1;
+}
+.v48fv_48x16_censor span {
+	margin: 0px; padding: 0px; opacity: 0; -moz-opacity: 0; -khtml-opacity: 0;
+}
+.v48fv_48x16_spoiler span {
+	margin: 0px; padding: 0px; opacity: 0; -moz-opacity: 0; -khtml-opacity: 0;
+}
+.v48fv_48x16_blackout {
+	margin: 0px 1px; padding: 0px; color: rgb(0, 0, 0); background-color: rgb(0, 0, 0);
+}

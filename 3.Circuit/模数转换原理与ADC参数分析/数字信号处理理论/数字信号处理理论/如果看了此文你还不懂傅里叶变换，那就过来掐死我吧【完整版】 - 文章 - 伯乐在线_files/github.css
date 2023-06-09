@@ -1,0 +1,84 @@
+.crayon-theme-github {
+	border: 1px solid rgb(222, 222, 222) !important; border-image: none !important; line-height: 130% !important; font-size: 100% !important; margin-bottom: 25px !important; background-color: rgb(248, 248, 255) !important;
+}
+.crayon-theme-github .crayon-toolbar {
+	border-bottom-color: rgb(222, 222, 222) !important; border-bottom-width: 1px !important; border-bottom-style: solid !important; background-color: rgb(238, 238, 238) !important;
+}
+.crayon-theme-github .crayon-toolbar .crayon-language {
+	color: rgb(102, 102, 102) !important; font-size: 80% !important;
+}
+.crayon-theme-github .crayon-toolbar .crayon-title {
+	color: rgb(102, 102, 102) !important; font-size: 80% !important;
+}
+.crayon-theme-github .crayon-table .crayon-nums {
+	background-color: rgb(238, 238, 238) !important;
+}
+.crayon-theme-github .crayon-table .crayon-nums-content {
+	padding-top: 5px !important; padding-bottom: 3px !important;
+}
+.crayon-theme-github .crayon-table .crayon-num {
+	text-align: right !important; color: rgb(170, 170, 170) !important; border-right-color: rgb(222, 222, 222) !important; border-right-width: 1px !important; border-right-style: solid !important; min-width: 1.2em !important;
+}
+.crayon-theme-github .crayon-pre {
+	padding-top: 5px !important; padding-bottom: 3px !important;
+}
+.crayon-theme-github .crayon-marked-line {
+	background: rgb(255, 254, 226) !important;
+}
+.crayon-theme-github .crayon-marked-num {
+	background: rgb(179, 211, 244) !important; border-width: 1px !important; border-color: rgb(89, 153, 217) !important; color: rgb(21, 97, 172) !important;
+}
+.crayon-theme-github .crayon-pre .crayon-c {
+	color: rgb(153, 153, 153) !important; font-style: italic !important;
+}
+.crayon-theme-github .crayon-pre .crayon-s {
+	color: rgb(221, 17, 68) !important;
+}
+.crayon-theme-github .crayon-pre .crayon-p {
+	color: rgb(184, 92, 0) !important;
+}
+.crayon-theme-github .crayon-pre .crayon-ta {
+	color: rgb(255, 0, 0) !important;
+}
+.crayon-theme-github .crayon-pre .crayon-k {
+	color: teal !important;
+}
+.crayon-theme-github .crayon-pre .crayon-st {
+	color: rgb(0, 0, 0) !important; font-weight: bold !important;
+}
+.crayon-theme-github .crayon-pre .crayon-r {
+	color: rgb(0, 0, 0) !important; font-weight: bold !important;
+}
+.crayon-theme-github .crayon-pre .crayon-t {
+	color: rgb(128, 0, 128) !important; font-weight: bold !important;
+}
+.crayon-theme-github .crayon-pre .crayon-m {
+	color: rgb(128, 0, 128) !important;
+}
+.crayon-theme-github .crayon-pre .crayon-i {
+	color: rgb(0, 0, 0) !important;
+}
+.crayon-theme-github .crayon-pre .crayon-e {
+	color: teal !important;
+}
+.crayon-theme-github .crayon-pre .crayon-v {
+	color: rgb(0, 45, 122) !important;
+}
+.crayon-theme-github .crayon-pre .crayon-cn {
+	color: rgb(0, 153, 153) !important;
+}
+.crayon-theme-github .crayon-pre .crayon-o {
+	color: rgb(0, 111, 224) !important;
+}
+.crayon-theme-github .crayon-pre .crayon-sy {
+	color: rgb(51, 51, 51) !important;
+}
+.crayon-theme-github .crayon-pre .crayon-n {
+	color: rgb(102, 102, 102) !important; font-style: italic;
+}
+.crayon-theme-github .crayon-pre .crayon-f {
+	color: rgb(153, 153, 153) !important;
+}
+.crayon-theme-github .crayon-pre .crayon-h {
+	color: rgb(0, 111, 224) !important;
+}

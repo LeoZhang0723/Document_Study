@@ -1,0 +1,351 @@
+.crayon-syntax {
+	text-align: left; overflow: hidden !important; position: relative !important; direction: ltr !important; box-sizing: border-box; -moz-box-sizing: border-box; -webkit-box-sizing: border-box; -webkit-text-size-adjust: none;
+}
+.crayon-syntax div {
+	background: none; margin: 0px; padding: 0px; border: currentColor; border-image: none; text-align: left;
+}
+.crayon-loading.crayon-syntax {
+	visibility: hidden;
+}
+.crayon-syntax {
+	width: 100%;
+}
+.crayon-syntax .crayon-main {
+	width: 100%;
+}
+.crayon-syntax .crayon-toolbar {
+	width: 100%;
+}
+.crayon-syntax .crayon-info {
+	width: 100%;
+}
+.crayon-syntax .crayon-plain {
+	width: 100%;
+}
+.crayon-syntax .crayon-code {
+	width: 100%;
+}
+.crayon-syntax .crayon-main {
+	overflow: auto;
+}
+.crayon-syntax .crayon-plain {
+	overflow: auto;
+}
+.crayon-syntax {
+	margin: 0px; padding: 0px;
+}
+.crayon-syntax .crayon-main {
+	margin: 0px; padding: 0px;
+}
+.crayon-syntax .crayon-plain {
+	margin: 0px; padding: 0px;
+}
+.crayon-syntax .crayon-table {
+	margin: 0px; padding: 0px;
+}
+.crayon-syntax-inline {
+	margin: 0px 2px; padding: 0px 2px;
+}
+.crayon-syntax .crayon-table {
+	background: none !important; padding: 0px !important; border: currentColor !important; border-image: none !important; width: auto !important; margin-top: 0px !important; margin-right: 0px !important; margin-bottom: 0px !important; border-collapse: collapse !important; table-layout: auto !important; border-spacing: 0 !important;
+}
+.crayon-syntax .crayon-table td {
+	background: none; margin: 0px !important; padding: 0px !important; border: currentColor !important; border-image: none !important; vertical-align: top !important;
+}
+.crayon-syntax .crayon-table tr {
+	background: none; margin: 0px !important; padding: 0px !important; border: currentColor !important; border-image: none !important; vertical-align: top !important;
+}
+.crayon-syntax .crayon-invisible {
+	display: none !important;
+}
+.crayon-plain-tag {
+	margin-bottom: 12px;
+}
+.crayon-popup {
+	
+}
+.crayon-popup .crayon-plain {
+	width: 100% !important; height: 100% !important; display: block !important; position: relative !important; opacity: 100 !important;
+}
+.crayon-popup-window {
+	background: rgb(255, 255, 255);
+}
+.crayon-syntax .crayon-num {
+	margin: 0px; padding: 0px 5px; text-align: center;
+}
+.crayon-syntax .crayon-toolbar {
+	overflow: hidden; position: relative; z-index: 4;
+}
+.crayon-syntax .crayon-info {
+	padding: 0px; line-height: 18px; overflow: hidden; display: none; position: absolute; z-index: 3; min-height: 18px;
+}
+.crayon-syntax .crayon-info div {
+	padding: 2px !important; text-align: center;
+}
+.crayon-syntax .crayon-toolbar span {
+	padding: 0px 4px !important;
+}
+.crayon-syntax .crayon-toolbar .crayon-button {
+	border: currentColor; border-image: none; width: 24px; line-height: 15px; text-decoration: none; float: left !important; display: inline; position: relative; background-repeat: no-repeat;
+}
+.crayon-toolbar .crayon-button {
+	background-position: 0px;
+}
+.crayon-toolbar .crayon-button:hover {
+	background-position: 0px;
+}
+.crayon-toolbar .crayon-pressed.crayon-button:hover {
+	background-position: 0px;
+}
+.crayon-toolbar .crayon-pressed.crayon-button {
+	background-position: -24px 0px;
+}
+.crayon-toolbar .crayon-button:active {
+	background-position: -24px 0px;
+}
+.crayon-toolbar .crayon-pressed.crayon-button:active {
+	background-position: -24px 0px;
+}
+.crayon-toolbar .crayon-popup-button.crayon-button .crayon-button-icon {
+	background-position: 0px 0px;
+}
+.crayon-toolbar .crayon-popup-button.crayon-button:hover .crayon-button-icon {
+	background-position: 0px 0px;
+}
+.crayon-toolbar .crayon-pressed.crayon-popup-button.crayon-button:hover .crayon-button-icon {
+	background-position: 0px 0px;
+}
+.crayon-toolbar .crayon-copy-button.crayon-button .crayon-button-icon {
+	background-position: 0px -16px;
+}
+.crayon-toolbar .crayon-copy-button.crayon-button:hover .crayon-button-icon {
+	background-position: 0px -16px;
+}
+.crayon-toolbar .crayon-pressed.crayon-copy-button.crayon-button:hover .crayon-button-icon {
+	background-position: 0px -16px;
+}
+.crayon-toolbar .crayon-nums-button.crayon-button .crayon-button-icon {
+	background-position: 0px -32px;
+}
+.crayon-toolbar .crayon-nums-button.crayon-button:hover .crayon-button-icon {
+	background-position: 0px -32px;
+}
+.crayon-toolbar .crayon-pressed.crayon-nums-button.crayon-button:hover .crayon-button-icon {
+	background-position: 0px -32px;
+}
+.crayon-toolbar .crayon-plain-button.crayon-button .crayon-button-icon {
+	background-position: 0px -48px;
+}
+.crayon-toolbar .crayon-plain-button.crayon-button:hover .crayon-button-icon {
+	background-position: 0px -48px;
+}
+.crayon-toolbar .crayon-pressed.crayon-plain-button.crayon-button:hover .crayon-button-icon {
+	background-position: 0px -48px;
+}
+.crayon-toolbar .crayon-mixed-button.crayon-button .crayon-button-icon {
+	background-position: 0px -64px;
+}
+.crayon-toolbar .crayon-mixed-button.crayon-button:hover .crayon-button-icon {
+	background-position: 0px -64px;
+}
+.crayon-toolbar .crayon-pressed.crayon-mixed-button.crayon-button:hover .crayon-button-icon {
+	background-position: 0px -64px;
+}
+.crayon-toolbar .crayon-minimize.crayon-button .crayon-button-icon {
+	background-position: 0px -80px; background-color: transparent !important;
+}
+.crayon-toolbar .crayon-expand-button.crayon-button .crayon-button-icon {
+	background-position: 0px -96px;
+}
+.crayon-toolbar .crayon-expand-button.crayon-button:hover .crayon-button-icon {
+	background-position: 0px -96px;
+}
+.crayon-toolbar .crayon-pressed.crayon-expand-button.crayon-button:hover .crayon-button-icon {
+	background-position: 0px -96px;
+}
+.crayon-toolbar .crayon-wrap-button.crayon-button .crayon-button-icon {
+	background-position: 0px -112px;
+}
+.crayon-toolbar .crayon-wrap-button.crayon-button:hover .crayon-button-icon {
+	background-position: 0px -112px;
+}
+.crayon-toolbar .crayon-pressed.crayon-wrap-button.crayon-button:hover .crayon-button-icon {
+	background-position: 0px -112px;
+}
+.crayon-toolbar .crayon-pressed.crayon-popup-button.crayon-button .crayon-button-icon {
+	background-position: -24px 0px;
+}
+.crayon-toolbar .crayon-popup-button.crayon-button:active .crayon-button-icon {
+	background-position: -24px 0px;
+}
+.crayon-toolbar .crayon-pressed.crayon-popup-button.crayon-button:active .crayon-button-icon {
+	background-position: -24px 0px;
+}
+.crayon-toolbar .crayon-pressed.crayon-copy-button.crayon-button .crayon-button-icon {
+	background-position: -24px -16px;
+}
+.crayon-toolbar .crayon-copy-button.crayon-button:active .crayon-button-icon {
+	background-position: -24px -16px;
+}
+.crayon-toolbar .crayon-pressed.crayon-copy-button.crayon-button:active .crayon-button-icon {
+	background-position: -24px -16px;
+}
+.crayon-toolbar .crayon-pressed.crayon-nums-button.crayon-button .crayon-button-icon {
+	background-position: -24px -32px;
+}
+.crayon-toolbar .crayon-nums-button.crayon-button:active .crayon-button-icon {
+	background-position: -24px -32px;
+}
+.crayon-toolbar .crayon-pressed.crayon-nums-button.crayon-button:active .crayon-button-icon {
+	background-position: -24px -32px;
+}
+.crayon-toolbar .crayon-pressed.crayon-plain-button.crayon-button .crayon-button-icon {
+	background-position: -24px -48px;
+}
+.crayon-toolbar .crayon-plain-button.crayon-button:active .crayon-button-icon {
+	background-position: -24px -48px;
+}
+.crayon-toolbar .crayon-pressed.crayon-plain-button.crayon-button:active .crayon-button-icon {
+	background-position: -24px -48px;
+}
+.crayon-toolbar .crayon-pressed.crayon-mixed-button.crayon-button .crayon-button-icon {
+	background-position: -24px -64px;
+}
+.crayon-toolbar .crayon-mixed-button.crayon-button:active .crayon-button-icon {
+	background-position: -24px -64px;
+}
+.crayon-toolbar .crayon-pressed.crayon-mixed-button.crayon-button:active .crayon-button-icon {
+	background-position: -24px -64px;
+}
+.crayon-toolbar .crayon-minimize.crayon-button .crayon-button-icon {
+	background-position: -24px -80px; background-color: transparent !important;
+}
+.crayon-toolbar .crayon-pressed.crayon-expand-button.crayon-button .crayon-button-icon {
+	background-position: -24px -96px;
+}
+.crayon-toolbar .crayon-expand-button.crayon-button:active .crayon-button-icon {
+	background-position: -24px -96px;
+}
+.crayon-toolbar .crayon-pressed.crayon-expand-button.crayon-button:active .crayon-button-icon {
+	background-position: -24px -96px;
+}
+.crayon-toolbar .crayon-pressed.crayon-wrap-button.crayon-button .crayon-button-icon {
+	background-position: -24px -112px;
+}
+.crayon-toolbar .crayon-wrap-button.crayon-button:active .crayon-button-icon {
+	background-position: -24px -112px;
+}
+.crayon-toolbar .crayon-pressed.crayon-wrap-button.crayon-button:active .crayon-button-icon {
+	background-position: -24px -112px;
+}
+.crayon-syntax .crayon-toolbar .crayon-language {
+	padding-right: 8px !important;
+}
+.crayon-syntax .crayon-title {
+	float: left;
+}
+.crayon-syntax .crayon-language {
+	float: left;
+}
+.crayon-syntax .crayon-pre {
+	background: none !important; margin: 0px; padding: 0px; border: currentColor !important; border-image: none !important; color: rgb(0, 0, 0); overflow: visible; white-space: pre; tab-size: 4;
+}
+.crayon-syntax pre {
+	background: none !important; margin: 0px; padding: 0px; border: currentColor !important; border-image: none !important; color: rgb(0, 0, 0); overflow: visible; white-space: pre; tab-size: 4;
+}
+.crayon-syntax .crayon-line {
+	padding: 0px 5px;
+}
+.crayon-wrapped.crayon-syntax .crayon-line {
+	height: auto; white-space: pre-wrap !important; -ms-word-break: break-all;
+}
+.crayon-syntax-inline .crayon-pre {
+	white-space: normal;
+}
+.crayon-syntax-inline pre {
+	white-space: normal;
+}
+.crayon-syntax-inline-nowrap .crayon-pre {
+	white-space: pre;
+}
+.crayon-syntax-inline-nowrap pre {
+	white-space: pre;
+}
+.crayon-syntax {
+	font-family: Monaco, "MonacoRegular", "Courier New", monospace; font-weight: 500;
+}
+.crayon-syntax .crayon-toolbar *::selection {
+	background: none;
+}
+.crayon-syntax .crayon-nums *::selection {
+	background: none;
+}
+.crayon-table .crayon-nums-content {
+	white-space: nowrap;
+}
+.crayon-syntax .crayon-num {
+	height: inherit; line-height: inherit !important; font-family: inherit; font-size: inherit !important; font-weight: inherit !important;
+}
+.crayon-syntax .crayon-pre .crayon-line {
+	height: inherit; line-height: inherit !important; font-family: inherit; font-size: inherit !important; font-weight: inherit !important;
+}
+.crayon-syntax .crayon-toolbar * {
+	height: inherit; line-height: inherit !important; font-family: inherit; font-size: inherit !important; font-weight: inherit !important;
+}
+.crayon-syntax .crayon-pre * {
+	height: inherit; line-height: inherit !important; font-family: inherit; font-size: inherit !important; font-weight: inherit !important;
+}
+.crayon-syntax .crayon-toolbar .crayon-button .crayon-button-icon {
+	left: 0px; top: 50%; width: 100%; height: 16px !important; margin-top: -8px; position: absolute; background-image: url("../images/toolbar/buttons.png");
+}
+.crayon-syntax .crayon-toolbar .crayon-tools {
+	right: 0px; position: absolute;
+}
+.crayon-expanded.crayon-syntax {
+	margin: 0px !important; position: absolute !important;
+}
+.crayon-expanded.crayon-syntax .crayon-main {
+	overflow: hidden !important;
+}
+.crayon-placeholder {
+	width: 100% !important;
+}
+.crayon-toolbar-visible .crayon-toolbar {
+	margin-top: 0px !important; display: block !important; position: relative !important;
+}
+.crayon-expanded.crayon-syntax .crayon-toolbar .crayon-tools {
+	right: auto; float: left !important; position: relative;
+}
+.crayon-syntax .crayon-plain-wrap {
+	margin: 0px !important; padding: 0px !important; height: auto !important;
+}
+.crayon-syntax .crayon-plain {
+	background: rgb(255, 255, 255); margin: 0px; padding: 0px 5px; border-radius: 0px; border: currentColor; border-image: none; width: 100%; height: 100%; color: rgb(0, 0, 0); overflow: auto; white-space: pre; position: absolute; -ms-word-wrap: normal; box-sizing: border-box; opacity: 0; box-shadow: none; -webkit-box-shadow: none; -moz-box-shadow: none; -moz-box-sizing: border-box; -webkit-box-sizing: border-box; resize: none;
+}
+.crayon-wrapped .crayon-plain {
+	white-space: pre-wrap;
+}
+.bbp-body .crayon-syntax {
+	clear: none !important;
+}
+.crayon-minimized .crayon-toolbar {
+	cursor: pointer;
+}
+.crayon-minimized .crayon-plain-wrap {
+	display: none !important;
+}
+.crayon-minimized .crayon-main {
+	display: none !important;
+}
+.crayon-minimized .crayon-toolbar .crayon-tools * {
+	display: none !important;
+}
+.crayon-minimized .crayon-toolbar .crayon-tools .crayon-minimize {
+	display: block !important;
+}
+.crayon-minimized .crayon-toolbar {
+	position: relative !important;
+}
+.crayon-minimized.crayon-syntax .crayon-toolbar {
+	border-bottom-color: currentColor !important; border-bottom-width: medium !important; border-bottom-style: none !important;
+}

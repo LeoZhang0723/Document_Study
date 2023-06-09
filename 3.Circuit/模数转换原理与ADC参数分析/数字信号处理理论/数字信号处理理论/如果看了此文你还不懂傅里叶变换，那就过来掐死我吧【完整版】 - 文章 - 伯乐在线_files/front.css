@@ -1,0 +1,69 @@
+.v48fv_survey_front label.concise_prompt {
+	display: block;
+}
+.v48fv_survey_front label.expanded_prompt {
+	display: block;
+}
+.survey_front label.question {
+	display: block;
+}
+.v48fv_survey_front label.question {
+	display: block;
+}
+.v48fv_survey_front label.inline.concise_prompt {
+	padding-right: 1px; display: inline;
+}
+.v48fv_survey_front label.inline.expanded_prompt {
+	padding-right: 1px; display: inline;
+}
+.survey_front label.inline.question {
+	padding-right: 1px; display: inline;
+}
+.v48fv_survey_front label.inline.question {
+	padding-right: 1px; display: inline;
+}
+.v48fv_survey_front label.option {
+	padding-left: 1px;
+}
+.v48fv_survey_front fieldset {
+	margin: 0px; padding: 0px; border: currentColor; border-image: none;
+}
+.v48fv_survey_front form {
+	margin: 0px; padding: 0px; border: currentColor; border-image: none;
+}
+.v48fv_survey_front ul.options {
+	margin: 0px; padding: 0px; list-style-type: none;
+}
+.v48fv_survey_front input[type='text'].number {
+	width: 3em;
+}
+.v48fv_survey_front label.concise_prompt {
+	font-weight: bold;
+}
+.v48fv_survey_front label.cookie {
+	font-weight: bold;
+}
+.survey_front label.question {
+	font-weight: bold;
+}
+.v48fv_survey_front label.question {
+	font-weight: bold;
+}
+.v48fv_survey_front [mandatory='checked'] label.concise_prompt::after {
+	color: rgb(255, 0, 0); content: "*";
+}
+.v48fv_survey_front input[type='text'] {
+	width: 49%;
+}
+form.v48fv_survey_front {
+	margin: 0px; padding: 1px; border: currentColor; border-image: none; width: 100%;
+}
+.v48fv_survey_front fieldset {
+	margin: 0px 0px 2px; padding: 3px; border: currentColor; border-image: none;
+}
+.v48fv_survey_front fieldset[error='1'] label.concise_prompt {
+	color: rgb(255, 0, 0);
+}
+.v48fv_survey_front fieldset[error='1'] label.cookie {
+	color: rgb(255, 0, 0);
+}

@@ -1,0 +1,210 @@
+.crayon-te * {
+	font-family: "Lucida Grande", Arial, sans-serif !important; font-size: 12px;
+}
+#crayon-te-bar-content {
+	font-family: "Lucida Grande", Arial, sans-serif !important; font-size: 12px;
+}
+.crayon-te input[type='text'] {
+	background: rgb(249, 249, 249); padding: 2px 4px; border-radius: 3px; border: 1px solid rgb(204, 204, 204); border-image: none; box-shadow: inset 1px 1px 1px rgba(0,0,0,0.1); -webkit-box-shadow: inset 1px 1px 1px rgba(0, 0, 0, 0.1); -webkit-border-radius: 3px; -moz-box-shadow: inset 1px 1px 1px rgba(0, 0, 0, 0.1);
+}
+.crayon-te textarea {
+	background: rgb(249, 249, 249); padding: 2px 4px; border-radius: 3px; border: 1px solid rgb(204, 204, 204); border-image: none; box-shadow: inset 1px 1px 1px rgba(0,0,0,0.1); -webkit-box-shadow: inset 1px 1px 1px rgba(0, 0, 0, 0.1); -webkit-border-radius: 3px; -moz-box-shadow: inset 1px 1px 1px rgba(0, 0, 0, 0.1);
+}
+.crayon-te #crayon-code {
+	font-family: monospace !important;
+}
+#crayon-te-content {
+	width: 100%; height: auto !important;
+}
+#crayon-te-table {
+	width: 100%; height: auto !important;
+}
+#crayon-range {
+	width: 100px;
+}
+#crayon-mark {
+	width: 100px;
+}
+#crayon-te-table th {
+	text-align: left; vertical-align: top;
+}
+#crayon-te-table td {
+	text-align: left; vertical-align: top;
+}
+.rtl #crayon-te-table th {
+	text-align: right;
+}
+.rtl #crayon-te-table td {
+	text-align: right;
+}
+#crayon-te-table .crayon-tr-center td {
+	vertical-align: middle;
+}
+#crayon-te-table .crayon-tr-center th {
+	vertical-align: middle;
+}
+#crayon-te-table .crayon-nowrap {
+	white-space: nowrap;
+}
+#crayon-te-bar {
+	left: 0px; top: 0px; width: 100%; position: absolute;
+}
+#crayon-te-bar-content {
+	border-width: 1px 1px medium; border-style: solid solid none; border-color: rgb(102, 102, 102) rgb(102, 102, 102) currentColor; padding: 0px 0px 0px 8px; border-image: none; height: 26px; color: rgb(207, 207, 207); line-height: 25px; background-color: rgb(34, 34, 34);
+}
+#crayon-te-bar-content a {
+	padding: 5px 10px; color: rgb(221, 221, 221); line-height: 25px; font-weight: bold; text-decoration: none !important;
+}
+#crayon-te-bar-content a:hover {
+	color: rgb(255, 255, 255);
+}
+.crayon-te-seperator {
+	margin: 0px; padding: 0px; color: rgb(102, 102, 102);
+}
+#crayon-te-bar-block {
+	width: 100%; height: 34px;
+}
+#crayon-te-title {
+	float: left;
+}
+#crayon-te-controls {
+	float: right;
+}
+#crayon-url-th {
+	padding-top: 5px; vertical-align: top !important;
+}
+.crayon-te-heading {
+	font-size: 14px; font-weight: bold;
+}
+#crayon-te-settings-info {
+	text-align: center;
+}
+.crayon-te-section {
+	padding: 0px 10px; font-weight: bold;
+}
+#crayon-te-sub-section {
+	margin-left: 10px;
+}
+#crayon-te-sub-section .crayon-te-section {
+	padding: 0px; font-weight: normal;
+}
+#crayon-code {
+	height: 400px; white-space: pre;
+}
+#crayon-code {
+	width: 555px !important;
+}
+#crayon-url {
+	width: 555px !important;
+}
+.crayon-disabled {
+	background: rgb(238, 238, 238) !important;
+}
+.qt_crayon_highlight {
+	background-image: -ms-linear-gradient(bottom, rgb(218, 242, 255), white) !important;
+}
+.qt_crayon_highlight:hover {
+	background: rgb(221, 235, 242) !important;
+}
+.crayon-tag-editor-button-wrapper {
+	display: inline-block;
+}
+.mce_crayon_tinymce {
+	margin: 2px 3px !important; padding: 0px !important;
+}
+.mce-i-crayon_tinymce {
+	background: url("../images/crayon_tinymce.png") 0px 0px !important;
+}
+.mce_crayon_tinymce {
+	background: url("../images/crayon_tinymce.png") 0px 0px !important;
+}
+a.mce_crayon_tinymce {
+	background-position: 2px 0px !important;
+}
+.wp_themeSkin .mceButtonEnabled:hover span.mce_crayon_tinymce {
+	background-position: -20px 0px;
+}
+.wp_themeSkin .mceButtonActive span.mce_crayon_tinymce {
+	background-position: -20px 0px;
+}
+.wp_themeSkin span.mce_crayon_tinymce {
+	background: none !important;
+}
+#crayon-te-table {
+	padding: 10px; margin-top: 26px; border-collapse: separate !important; border-spacing: 2px !important;
+}
+#crayon-te-table th {
+	width: 100px;
+}
+#crayon-te-clear {
+	border-radius: 3px; border: 1px solid rgb(204, 204, 204); border-image: none; color: rgb(102, 102, 102); margin-left: 8px; background-color: rgb(244, 244, 244);
+}
+#crayon-title {
+	width: 360px;
+}
+.crayon-te-ajax#TB_window {
+	overflow: auto !important;
+}
+.crayon-te-ajax#TB_window {
+	width: 680px !important;
+}
+.crayon-te-ajax#TB_window #TB_ajaxContent {
+	width: 680px !important;
+}
+.crayon-te-ajax#TB_window #TB_title {
+	width: 680px !important;
+}
+.crayon-te-ajax#TB_window #TB_ajaxContent {
+	margin: 28px 0px 0px !important; padding: 0px !important; width: 100% !important; height: auto !important;
+}
+.crayon-te-ajax#TB_window #TB_title {
+	position: fixed !important;
+}
+.crayon-te-ajax#TB_window #TB_title .crayon-te-submit {
+	margin-top: 3px !important; float: right !important;
+}
+.crayon-te-ajax#TB_window a {
+	color: rgb(37, 135, 226); text-decoration: none;
+}
+.crayon-te-ajax#TB_window a:hover {
+	color: rgb(73, 156, 233);
+}
+.crayon-te-quote {
+	background: rgb(221, 221, 221); padding: 0px 2px;
+}
+#crayon-te-submit-wrapper {
+	display: none;
+}
+#crayon-te-clear {
+	margin: 10px 0px 0px; display: none;
+}
+.crayon-syntax-pre {
+	background: red; overflow: auto; display: block; white-space: pre; -ms-word-wrap: break-word;
+}
+.crayon-question {
+	padding: 1px 4px !important; border-radius: 10px !important; width: 15px !important; height: 15px !important; color: rgb(131, 179, 203) !important; text-decoration: none !important;
+}
+.crayon-question:hover {
+	background: rgb(131, 179, 203) !important; width: 15px !important; height: 15px !important; color: white !important;
+}
+.crayon-setting {
+	
+}
+.crayon-setting-changed {
+	background: rgb(255, 250, 173) !important;
+}
+.crayon-setting-selected {
+	background: rgb(255, 250, 173) !important;
+}
+.crayon-question:hover {
+	background: rgb(166, 214, 239); color: white;
+}
+#crayon-te-warning {
+	display: none;
+}
+.crayon-te-info {
+	margin: 2px 0px !important; padding: 5px !important;
+}
+#crayon-te-submit {
+	margin-bottom: 5px;
+}
